@@ -1,0 +1,6 @@
+{
+  "cafe": [
+    { "id": 1, "name": "json-resto", "author": "ankit" },
+    { "id": 2, "name": "java-resto", "author": "goyal" }
+  ],
+}
